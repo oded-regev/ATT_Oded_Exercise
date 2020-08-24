@@ -1,0 +1,12 @@
+{
+  "name": "atnt_app",
+  "displayName": "atnt_app",
+  "expo": {
+    "name": "atnt_app",
+    "slug": "atnt_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
